@@ -3,3 +3,6 @@ http://portal/Info/Матриця компетенцій/Тестер (QA) - заходь через експлорер
 http://www.melnikov.ca/mel/docs/imap_vs_pop_brief.html
 
 http://dev.by/blogs/main/podhod-k-testirovaniyu-v-agile
+
+
+http://dev.by/blogs/main/podhod-k-testirovaniyu-v-agile
